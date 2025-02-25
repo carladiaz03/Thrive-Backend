@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriveBackend", "ThriveBackend\ThriveBackend.csproj", "{CF254CC6-E7D3-9B07-3424-ED0C8E272626}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF254CC6-E7D3-9B07-3424-ED0C8E272626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF254CC6-E7D3-9B07-3424-ED0C8E272626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF254CC6-E7D3-9B07-3424-ED0C8E272626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF254CC6-E7D3-9B07-3424-ED0C8E272626}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16128CE3-6544-4022-9885-AAED91E1D138}
+	EndGlobalSection
+EndGlobal

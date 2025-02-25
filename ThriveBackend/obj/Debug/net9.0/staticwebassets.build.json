@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "E4tl70On9wHQnoeUoe0SWkFSZJnaJyKaZKOInM3iSR4=",
+  "Source": "ThriveBackend",
+  "BasePath": "_content/ThriveBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
